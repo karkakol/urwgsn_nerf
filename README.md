@@ -1,1 +1,0 @@
-# urwgsn_nerf
